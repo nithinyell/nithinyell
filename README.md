@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nithin Yell
+- 👀 I’m interested in Building Mobile Apps
+- 🌱 I’m currently learning Latest principles and technoligies applied in Hybrid and Native Mobile apps
+- 💞️ I’m looking to collaborate on new and intereating projects
+- 📫 How to reach me nithinyell@gmail.com
